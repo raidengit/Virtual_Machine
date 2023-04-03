@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33403.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ACTIVIDAD_2_VIRTUALBOX", "ACTIVIDAD_2_VIRTUALBOX\ACTIVIDAD_2_VIRTUALBOX.csproj", "{98AB868E-8DF5-4DD1-8518-A86B9652EEAE}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "MY_FIRST_WIZARD", "MY_FIRST_WIZARD\MY_FIRST_WIZARD.vdproj", "{B0B65492-640E-459B-81B3-32B99A8D7CB0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{98AB868E-8DF5-4DD1-8518-A86B9652EEAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98AB868E-8DF5-4DD1-8518-A86B9652EEAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98AB868E-8DF5-4DD1-8518-A86B9652EEAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98AB868E-8DF5-4DD1-8518-A86B9652EEAE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0B65492-640E-459B-81B3-32B99A8D7CB0}.Debug|Any CPU.ActiveCfg = Debug
+		{B0B65492-640E-459B-81B3-32B99A8D7CB0}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A093CD90-061A-469D-81AD-50052F9BDE58}
+	EndGlobalSection
+EndGlobal
